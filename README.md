@@ -1,12 +1,11 @@
 # Unity3D Gas Shader Wallpaper
 
-A lightweight, real-time procedural gas and fluid shader project built in Unity3D, designed for animated desktop wallpapers.
+A procedural gas giant project built in Unity3D, designed for my desktop wallpapers.
 
 ## Features
 
-- Procedural real-time gas and smoke animation using noise algorithms.
-- Low memory and GPU footprint optimized for continuous background running.
-- Fully exposed material parameters for customization.
+- Procedural real-time gas and smoke animation using noise and a texture.
+- Material parameters for customization.
 - Compatible with URP (Universal Render Pipeline) and Built-In Render Pipeline.
 
 ## Requirements
@@ -21,19 +20,13 @@ A lightweight, real-time procedural gas and fluid shader project built in Unity3
    git clone https://github.com/your-username/unity-gas-shader-wallpaper.git
    ```
 2. Open the project in Unity 2021.3 or higher.
-3. Open `Assets/Scenes/MainWallpaper.unity`.
-4. Press Play to preview the shader animation.
+3. Open `Assets/Scenes/backup.unity`.
+4. Press Play to preview the shader.
 
 ## Customization
 
-Select the shader material located at `Assets/Materials/M_GasWallpaper.mat` to adjust the following properties:
+Select the shader material located at `Assets/Materials/M_GasWallpaper.mat` to adjust the proprieties like color, size, texture, etc
 
-- **Primary Color:** Highlights and core gas color.
-- **Background Color:** Ambient background shading.
-- **Flow Speed:** X and Y velocity vectors for gas movement.
-- **Noise Scale:** Density and frequency of the cloud pattern.
-- **Distortion:** Swirl intensity and turbulence.
+## License and AI
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See `LICENSE` for more information. NO AI IS USED
