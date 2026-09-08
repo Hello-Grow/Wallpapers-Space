@@ -8,11 +8,16 @@ A procedural gas giant project built in Unity3D, designed for my desktop wallpap
 - Material parameters for customization.
 - Compatible with URP (Universal Render Pipeline) and Built-In Render Pipeline.
 
+## Demo Setup
+ - download latest release `Build2.zip`
+ - extract the zip file
+ - run `Space.exe`
+
 ## Requirements
 
 - Unity 2021.3 LTS or newer
 - Universal Render Pipeline (URP) or Built-In Render Pipeline
-
+  
 ## Setup Instructions
 
 1. Clone the repository:
